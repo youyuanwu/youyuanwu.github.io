@@ -2,6 +2,8 @@
 
 Source for my personal GitHub Pages site, built with [mdBook](https://rust-lang.github.io/mdBook/).
 
+Go to [youyuanwu home](https://youyuanwu.github.io/).
+
 ## Layout
 
 - `book.toml` — mdBook configuration.
